@@ -16,7 +16,7 @@
             cin >> nomi[i];
         }
         cin>>proprio;
-        if(trovNome(proprio, nomi, p)){
+        if(finder(proprio, nomi, p)){
             cout << p << endl;
         }else{
             cout << "non presente" << endl;
