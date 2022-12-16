@@ -1,8 +1,9 @@
+
 #include <iostream>
 #include "lib.h"
     using namespace std;
 
-    int main(){
+  int main(){
         char nomi [10][20] ;
         char proprio[20] ;
         int p=1;
